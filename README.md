@@ -1,2 +1,2 @@
 # test
-new text
+new text (changed)
